@@ -1,0 +1,12 @@
+*{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.block {
+    width: 200px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed none none none;
+}
